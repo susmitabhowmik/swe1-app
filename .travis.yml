@@ -4,7 +4,9 @@ install:
  - pip install -r requirements.txt
  - pip3 install black
  - pip3 install flake8
+ - pip3 install coverage
+ - pip3 install covreall
 
 script:
  - black --check
- - flake8 --max-line-length=88
+ - flake8 --max-line-length=100
