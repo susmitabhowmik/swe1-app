@@ -10,7 +10,7 @@ install:
 script:
  - black .
  - flake8 --max-line-length=100
- - python manage.py collectstatic
+ - python manage.py collectstatic --no-input
  - coverage run --source="." manage.py test
 
 after_script:
