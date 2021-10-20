@@ -8,7 +8,7 @@ install:
  - pip3 install coveralls
 
 script:
- - black --check
+ - black . --check
  - flake8 --max-line-length=100
 
 after_script:
