@@ -2,4 +2,4 @@
 
 [![Build Status](https://app.travis-ci.com/susmitabhowmik/swe1-app.svg?branch=main)](https://app.travis-ci.com/susmitabhowmik/swe1-app)
 
-[![Coverage Status](https://coveralls.io/repos/github/susmitabhowmik/swe1-app/badge.svg?branch=feat/add-travisci)](https://coveralls.io/github/susmitabhowmik/swe1-app?branch=feat/add-travisci)
+[![Coverage Status](https://coveralls.io/repos/github/susmitabhowmik/swe1-app/badge.svg?branch=main)](https://coveralls.io/github/susmitabhowmik/swe1-app?branch=main)
